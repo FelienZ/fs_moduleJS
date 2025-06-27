@@ -22,9 +22,12 @@ node index.js read
 Output : (read)
 {
 ...
+}, 
 {
     "id": 4,
     "text": "Lets Dive in!",
     "author": "FelienZ"
 }
 ```
+
+**Note:** ID increment dari sebelumnya
