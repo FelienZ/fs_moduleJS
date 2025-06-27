@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "author": "Socrates",
+    "quote": "Know thyself"
+  },
+  {
+    "id": 2,
+    "author": "FelienZ",
+    "quote": "Belajar harus dari akar"
+  },
+  {
+    "id": 3,
+    "text": "Learn NodeJS",
+    "author": "Dicoding"
+  }
+]
