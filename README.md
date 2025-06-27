@@ -11,7 +11,7 @@ Bermain dengan module fs (FileSystem) Untuk Mensimulasikan Menambahkan, Menghapu
 - `npm run start stats [author]`
 
 ## Data Format & Store
-Data Tersimpan di `./data/quotes/json`
+Data Tersimpan di `./data/quotes.json`
 
 ## Example
 ```bash
@@ -20,6 +20,8 @@ node index.js read
 ```
 ```json
 Output : (read)
+{
+...
 {
     "id": 4,
     "text": "Lets Dive in!",
